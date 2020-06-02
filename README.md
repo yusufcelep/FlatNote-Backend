@@ -1,24 +1,17 @@
-# README
+# FlatNote-Frontend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to FlatNote! A simple note lister app that lets you add, edit, delete, and filter notes that you have made using React-Redux principles.
 
-Things you may want to cover:
+To get started on the frontend please have the latest version of react installed.
 
-* Ruby version
+Here's all the steps you should do:
 
-* System dependencies
+1. cd /your/app/path
+2. bundle install
+3. bundle exec rake db:create
+4. bundle exec rake db:migrate
+5. bundle exec rails server
+Once server is open, \
+Navigate to the React localhost!
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[FlatNote-Frontend](https://github.com/yusufcelep/FlatNote-Frontend) Reopsitory
