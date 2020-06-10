@@ -1,16 +1,22 @@
-# FlatNote-Backend
+<h1 align="center">FlatNote</h1>
+
+<div align="center">
+  Backend
+</div>
+<br/>
+
+# [Demo]()
 
 Welcome to FlatNote! A simple note lister app that lets you add, edit, delete, and filter notes that you have made using React-Redux principles.
 
-To get started on the frontend please have the latest version of react installed.
+## Installing
 
-Here's all the steps you should do:
-
-1. cd /your/app/path
-2. bundle install
-3. bundle exec rake db:create
-4. bundle exec rake db:migrate
-5. bundle exec rails server\
+- Clone this repo to your local machine `git clone <this-repo-url>`
+- run `bundle install` to install required dependencies
+- run `rails db:create` to create a database locally.
+- run `rails db:migrate` to create tables into the database.
+- run `rails db:seed` to create seed data.
+- run `rails s` to run the server. 
 Once server is open,\
 Navigate to the React localhost!
 
